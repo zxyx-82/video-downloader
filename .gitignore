@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+cookie.txt
+douyin_cookies.txt
+douyin_video_downloader/
+downloads/
+*.spec
+build_tmp/
+dist/
+*.exe
+logs/
